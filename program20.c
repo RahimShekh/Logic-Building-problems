@@ -2,11 +2,11 @@
 
 void Display()
 {
-    printf("jay hanuman...\n");
-    printf("jay hanuman...\n");
-    printf("jay hanuman...\n");
-    printf("jay hanuman...\n");
-    printf("jay hanuman...\n");
+    printf("jay...\n");
+    printf("jay ...\n");
+    printf("jay ...\n");
+    printf("jay ...\n");
+    printf("jay ...\n");
 }
 int main()
 {
