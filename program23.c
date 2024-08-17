@@ -6,7 +6,7 @@ void Display(int iNo)  //dynamic code hai
    iCnt = 1;           //1
    while(iCnt<=iNo)      //2
    {                             
-    printf("Jay hanuman...\n"); //4
+    printf("Jay ...\n"); //4
     iCnt++;                  //3
    }
 }
