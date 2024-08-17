@@ -6,7 +6,7 @@ void Display()
    //     1      2        3
    for(iCnt = 1;iCnt<=5;iCnt++)
    {
-    printf("Jay hanuman...\n"); //4
+    printf("Jay...\n"); //4
    }
 }
 int main()
